@@ -9,5 +9,6 @@ Evaluate the support for [SSR](https://medium.com/walmartlabs/the-benefits-of-se
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate        | Details            |
+| ---------------- | ------------------ |
+| [Vue.js](/vuejs) | [view](/vuejs/ssr) |

@@ -19,6 +19,7 @@
 
 ## Evaluation Criteria
 
-| Criteria                              | Details                   |
-| ------------------------------------- | ------------------------- |
-| [Components](/criteria/components.md) | [view](/vuejs/components) |
+| Criteria                                  | Details                   |
+| ----------------------------------------- | ------------------------- |
+| [Components](/criteria/components.md)     | [view](/vuejs/components) |
+| [Server Side Rendering](/criteria/ssr.md) | [view](/vuejs/ssr)        |

@@ -1,0 +1,13 @@
+{
+  "name": "vuejs-ssr-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"    
+  },
+  "dependencies": {
+    "vue": "^2.5.6",
+    "vue-server-renderer": "^2.5.6"
+  }
+}
