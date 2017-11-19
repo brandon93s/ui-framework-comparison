@@ -23,3 +23,4 @@
 | ------------------------------------- | --------------------------- |
 | [Components](/criteria/components.md) | [view](/angular/components) |
 | [Language](/criteria/languages.md)    | [view](/angular/languages)  |
+| [License](/criteria/licensing.md)     | [view](/angular/licensing)  |
