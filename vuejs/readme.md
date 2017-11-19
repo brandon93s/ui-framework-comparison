@@ -19,5 +19,6 @@
 
 ## Evaluation Criteria
 
-| Criteria | Details |
-| -------- | ------- |
+| Criteria                              | Details                   |
+| ------------------------------------- | ------------------------- |
+| [Components](/criteria/components.md) | [view](/vuejs/components) |

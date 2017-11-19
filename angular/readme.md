@@ -19,6 +19,6 @@
 
 ## Evaluation Criteria
 
-| Criteria                  | Details               |
-| ------------------------- | --------------------- |
-| [i18n](/criteria/i13n.md) | [view](/angular/i13n) |
+| Criteria                              | Details                     |
+| ------------------------------------- | --------------------------- |
+| [Components](/criteria/components.md) | [view](/angular/components) |

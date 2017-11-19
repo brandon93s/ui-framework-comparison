@@ -24,22 +24,22 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 
 ## Evaluation Criteria
 
-| Criteria                                                          | Angular               | React  | Vue.js |
-| ----------------------------------------------------------------- | --------------------- | ------ | ------ |
-| [Components](/criteria/components.md)                             | (todo)                | (todo) | (todo) |
-| [Dev Experience](/criteria/dev-experience.md)                     | (todo)                | (todo) | (todo) |
-| [Incremental Adoptability](/criteria/incremental-adoptability.md) | (todo)                | (todo) | (todo) |
-| [i18n](/criteria/i13n.md)                                         | [view](/angular/i13n) | (todo) | (todo) |
-| [Learning Curve](/criteria/learning-curve.md)                     | (todo)                | (todo) | (todo) |
-| [Language](/criteria/languages.md)                                | (todo)                | (todo) | (todo) |
-| [License](/criteria/licensing.md)                                 | (todo)                | (todo) | (todo) |
-| [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                | (todo) | (todo) |
-| [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                | (todo) | (todo) |
-| [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                | (todo) | (todo) |
-| [Server Side Rendering](/criteria/ssr.md)                         | (todo)                | (todo) | (todo) |
-| [Support & Community](/criteria/support-community.md)             | (todo)                | (todo) | (todo) |
-| [Testing](/criteria/testing.md)                                   | (todo)                | (todo) | (todo) |
-| [Theming](/criteria/theming.md)                                   | (todo)                | (todo) | (todo) |
+| Criteria                                                          | Angular                     | React                     | Vue.js                    |
+| ----------------------------------------------------------------- | --------------------------- | ------------------------- | ------------------------- |
+| [Components](/criteria/components.md)                             | [view](/angular/components) | [view](/react/components) | [view](/vuejs/components) |
+| [Dev Experience](/criteria/dev-experience.md)                     | (todo)                      | (todo)                    | (todo)                    |
+| [Incremental Adoptability](/criteria/incremental-adoptability.md) | (todo)                      | (todo)                    | (todo)                    |
+| [i18n](/criteria/i13n.md)                                         | (todo)                      | (todo)                    | (todo)                    |
+| [Learning Curve](/criteria/learning-curve.md)                     | (todo)                      | (todo)                    | (todo)                    |
+| [Language](/criteria/languages.md)                                | (todo)                      | (todo)                    | (todo)                    |
+| [License](/criteria/licensing.md)                                 | (todo)                      | (todo)                    | (todo)                    |
+| [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                      | (todo)                    | (todo)                    |
+| [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                      | (todo)                    | (todo)                    |
+| [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                      | (todo)                    | (todo)                    |
+| [Server Side Rendering](/criteria/ssr.md)                         | (todo)                      | (todo)                    | (todo)                    |
+| [Support & Community](/criteria/support-community.md)             | (todo)                      | (todo)                    | (todo)                    |
+| [Testing](/criteria/testing.md)                                   | (todo)                      | (todo)                    | (todo)                    |
+| [Theming](/criteria/theming.md)                                   | (todo)                      | (todo)                    | (todo)                    |
 
 ## Contributing
 Read the [Contributing Guide](contributing.md) to get started.

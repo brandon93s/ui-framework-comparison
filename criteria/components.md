@@ -14,5 +14,8 @@ Evaluate what component and companion libraries are available and actively maint
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate           | Details                     |
+| ------------------- | --------------------------- |
+| [Angular](/angular) | [view](/angular/components) |
+| [React](/react)     | [view](/react/components)   |
+| [Vue.js](/vuejs)    | [view](/vuejs/components)   |
