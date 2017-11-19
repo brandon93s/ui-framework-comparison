@@ -22,3 +22,4 @@
 | Criteria                              | Details                   |
 | ------------------------------------- | ------------------------- |
 | [Components](/criteria/components.md) | [view](/react/components) |
+| [Language](/criteria/languages.md)    | [view](/react/languages)  |

@@ -14,4 +14,5 @@ Evaluate what languages are supported by the candidate framework or library and 
 | Candidate           | Details                    |
 | ------------------- | -------------------------- |
 | [Angular](/angular) | [view](/angular/languages) |
+| [React](/react)     | [view](/react/languages)   |
 | [Vue.js](/vuejs)    | [view](/vuejs/languages)   |
