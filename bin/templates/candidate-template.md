@@ -1,0 +1,22 @@
+# %NAME%
+
+:globe_with_meridians: %WEBSITE%
+
+%BADGE_STARS%
+%BADGE_FORKS%
+%BADGE_WATCHERS%
+
+%BADGE_LICENSE%
+%BADGE_AWESOME%
+
+%BADGE_VERSION%
+%BADGE_BUILD%
+%BADGE_COVERAGE%
+
+**Description:** %DESCRIPTION%
+
+**History:** %HISTORY%
+
+## Evaluation Criteria
+
+%EVALUATION_CRITERIA%

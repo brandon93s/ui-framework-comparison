@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Angular",
+        "slug": "angular",
+        "homepage": "https://angular.io/",
+        "tagline": "One framework. Mobile & desktop.",
+        "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges.",
+        "history": "Angular 2.0 was announced at the ng-Europe conference 22-23. September 2014. The drastic changes in the 2.0 version created considerable controversy among developers. On April 30, 2015, the Angular developers announced that Angular 2 moved from Alpha to Developer Preview. Angular 2 moved to Beta in December 2015, and the first release candidate was published in May 2016. The final version was released on September 14, 2016. On 13 December 2016 Angular 4 was announced, skipping 3 to avoid a confusion due to the misalignment of the router package's version which was already distributed as v3.3.0. The final version was released on March 23, 2017. Angular 4 is backward compatible with Angular 2.",
+        "github": "https://github.com/angular/angular",
+        "awesome": "https://github.com/gdi2290/awesome-angular",
+        "license": "MIT",
+        "badges": {
+            "stars": "[![GitHub stars](https://img.shields.io/github/stars/angular/angular.svg?style=social&label=Stars)]()",
+            "forks": "[![GitHub forks](https://img.shields.io/github/forks/angular/angular.svg?style=social&label=Fork)]()",
+            "watchers": "[![GitHub watchers](https://img.shields.io/github/watchers/angular/angular.svg?style=social&label=Watch)]()",
+            "license": "[![license](https://img.shields.io/github/license/angular/angular.svg)]()",
+            "awesome": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/gdi2290/awesome-angular)",
+            "version": "[![npm](https://img.shields.io/npm/v/@angular/core.svg)]()",
+            "build": "[![CircleCI](https://img.shields.io/circleci/project/github/angular/angular.svg)]()"
+        }
+    },
+    {
+        "name": "React",
+        "slug": "react",
+        "homepage": "https://reactjs.org",
+        "tagline": "A JavaScript library for building user interfaces",
+        "description": "React is a JavaScript library for building user interfaces. It is maintained by Facebook, Instagram and a community of individual developers and corporations. React allows developers to create large web-applications that use data and can change over time without reloading the page. It aims primarily to provide speed, simplicity, and scalability. React processes only user interfaces in applications, corresponding to the View in the Model-View-Controller (MVC) pattern.",
+        "history": "React was created by Jordan Walke, a software engineer at Facebook. He was influenced by Angular and XHP, an HTML component framework for PHP. It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012. It was open-sourced at JSConf US in May 2013.",
+        "github": "https://github.com/facebook/react",
+        "awesome": "https://github.com/enaqx/awesome-react",
+        "license": "MIT",
+        "badges": {
+            "stars": "[![GitHub stars](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Stars)]()",
+            "forks": "[![GitHub forks](https://img.shields.io/github/forks/facebook/react.svg?style=social&label=Fork)]()",
+            "watchers": "[![GitHub watchers](https://img.shields.io/github/watchers/facebook/react.svg?style=social&label=Watch)]()",
+            "license": "[![license](https://img.shields.io/github/license/facebook/react.svg)]()",
+            "awesome": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/enaqx/awesome-react)",
+            "version": "[![npm](https://img.shields.io/npm/v/react.svg)]()",
+            "build": "[![CircleCI](https://img.shields.io/circleci/project/github/facebook/react.svg)]()",
+            "coverage": "[![Coveralls github](https://img.shields.io/coveralls/github/facebook/react.svg)]()"
+        }
+    },
+    {
+        "name": "Vue.js",
+        "slug": "vuejs",
+        "homepage": "https://vuejs.org/",
+        "tagline": "The Progressive JavaScript Framework",
+        "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces.Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable. Vue can also function as a web application framework capable of powering advanced single-page applications. The project focuses on making ideas in web UI development (components, declarative UI, hot-reloading, time-travel debugging, etc.) more approachable. It attempts to be less opinionated and thus easier for developers to pick up.It features an incrementally adoptable architecture. The core library focuses on declarative rendering and component composition, and can be embedded into existing pages. Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.",
+        "history": "Vue was created by Evan You after working for Google using AngularJS in a number of projects. He later summed up his thought process, \"I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved?\" Vue was originally released in February 2014.",
+        "github": "https://github.com/vuejs/vue",
+        "awesome": "https://github.com/vuejs/awesome-vue",
+        "license": "MIT",
+        "badges": {
+            "stars": "[![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=social&label=Stars)]()",
+            "forks": "[![GitHub forks](https://img.shields.io/github/forks/vuejs/vue.svg?style=social&label=Fork)]()",
+            "watchers": "[![GitHub watchers](https://img.shields.io/github/watchers/vuejs/vue.svg?style=social&label=Watch)]()",
+            "license": "[![license](https://img.shields.io/github/license/vuejs/vue.svg)]()",
+            "awesome": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/vuejs/awesome-vue)",
+            "version": "[![npm](https://img.shields.io/npm/v/vue.svg)]()",
+            "build": "[![CircleCI](https://img.shields.io/circleci/project/github/vuejs/vue.svg)]()",
+            "coverage": "[![Codecov](https://img.shields.io/codecov/c/github/vuejs/vue.svg)]()"      
+        }
+    }
+]

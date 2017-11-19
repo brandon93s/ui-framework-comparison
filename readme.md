@@ -1,41 +1,48 @@
+<h3 align="center">
+	<br>
+	<img width="400" src="https://rawgit.com/brandon93s/ui-framework-comparison/master/media/logos.svg" alt="ui-framework-comparison" />
+	<br>
+    <br>
+</h1>
+
 # ui-framework-comparison
 
-> Objective comparisons of JavaScript UI frameworks & libraries
+The goal of *ui-framework-comparison* is to provide an objective, criteria-based evaluation of today's most popular JavaScript UI frameworks and libraries. This project is not intended to make a recommendation, but instead to provide you, your team or your organization with the research and demos necessary to come to an informed conclusion. There is no *"one size fits all"* answer in todays front-end environment, but more often than not any of the candidates can be setup to suit your needs. 
+
+## Current Candidates
+
+### [Angular](/angular) 
+*One framework. Mobile & desktop.* ([more](/angular)) 
+
+### [React](/react) 
+*A JavaScript library for building user interfaces* ([more](/react)) 
+
+### [Vue.js](/vuejs) 
+*The Progressive JavaScript Framework* ([more](/vuejs)) 
 
 
-## Candidates
-
-### Angular ([site](https://angular.io/))
-
-> One framework. Mobile & desktop.
-
-
-### React ([site](https://reactjs.org/))
-
-> A JavaScript library for building user interfaces
-
-### Vue.js ([site](https://vuejs.org/))
-
-> The Progressive JavaScript Framework
 
 ## Evaluation Criteria
 
-| Criteria                       | Angular       | React  |  Vue    |
-| -------------                  |:-------------:| -----: | -------:|
-| Components                     | (todo)        | (todo) | (todo) 
-| Dev Experience                 | (todo)        | (todo) | (todo) 
-| Incremental Adoptability       | (todo)        | (todo) | (todo) 
-| i13n                           | (todo)        | (todo) | (todo) 
-| Learning Curve                 | (todo)        | (todo) | (todo) 
-| License                        | (todo)        | (todo) | (todo) 
-| Mobile & Native Support        | (todo)        | (todo) | (todo) 
-| PDF Export & Rendering         | (todo)        | (todo) | (todo) 
-| Performance & Scalability      | (todo)        | (todo) | (todo) 
-| Server Side Rendering          | (todo)        | (todo) | (todo)    
-| Support & Community            | (todo)        | (todo) | (todo) 
-| Testing                        | (todo)        | (todo) | (todo) 
-| Theming                        | (todo)        | (todo) | (todo) 
-
+| Criteria                                                          | Angular               | React  | Vue.js |
+| ----------------------------------------------------------------- | --------------------- | ------ | ------ |
+| [Components](/criteria/components.md)                             | (todo)                | (todo) | (todo) |
+| [Dev Experience](/criteria/dev-experience.md)                     | (todo)                | (todo) | (todo) |
+| [Incremental Adoptability](/criteria/incremental-adoptability.md) | (todo)                | (todo) | (todo) |
+| [i18n](/criteria/i13n.md)                                         | [view](/angular/i13n) | (todo) | (todo) |
+| [Learning Curve](/criteria/learning-curve.md)                     | (todo)                | (todo) | (todo) |
+| [Language](/criteria/languages.md)                                | (todo)                | (todo) | (todo) |
+| [License](/criteria/licensing.md)                                 | (todo)                | (todo) | (todo) |
+| [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                | (todo) | (todo) |
+| [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                | (todo) | (todo) |
+| [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                | (todo) | (todo) |
+| [Server Side Rendering](/criteria/ssr.md)                         | (todo)                | (todo) | (todo) |
+| [Support & Community](/criteria/support-community.md)             | (todo)                | (todo) | (todo) |
+| [Testing](/criteria/testing.md)                                   | (todo)                | (todo) | (todo) |
+| [Theming](/criteria/theming.md)                                   | (todo)                | (todo) | (todo) |
 
 ## Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+## License
+MIT

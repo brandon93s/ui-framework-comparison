@@ -1,0 +1,15 @@
+{
+  "name": "ui-framework-comparison",
+  "version": "0.1.0",
+  "description": "Objective comparison of popular JavaScript UI frameworks & libraries",
+  "main": "index.js",
+  "repository": "https://github.com/brandon93s/ui-framework-comparison",
+  "author": "Brandon Smith <brandon93s@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node ./bin/generate.js"
+  },
+  "devDependencies": {
+    "markdown-table": "^1.1.1"
+  }
+}

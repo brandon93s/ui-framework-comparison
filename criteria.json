@@ -1,0 +1,99 @@
+{
+    "components": {
+        "display": "Components",
+        "description": "Evaluate what component and companion libraries are available and actively maintained. Identify any gaps in component availability and explore the effort necessary to implement.",
+        "considerations": [
+            "Do the identified libraries have official support or are they community built?",
+            "What does *state management* look like?",
+            "What does *routing* look like?",
+            "What does *data management (model/store)* look like?",
+            "Are there charting library wrappers available? For which libraries?",
+            "What table or grid libraries are available? Do they scale infinitely?"            
+        ]
+    },
+    "dev-experience": {
+        "display": "Dev Experience",
+        "description": "Evaluate the developer experience of using the candidate framework or library. Efficiency, learning curve and ease-of-use should be considered.",
+        "considerations": [
+            "Is hot reloading supported?",
+            "Is time-travel debugging of state supported?",
+            "What browser extensions are available to support development?",
+            "How valuable are console warnings and errors?",
+            "What is the debugging experience like using dev tools?",
+            "What code editors / IDEs are supported or recommended?"
+        ]
+    },
+    "incremental-adoptability": {
+        "display": "Incremental Adoptability",
+        "description": "Evaluate the incremental adoptability of the framework or library to determine the feasibility of running it alongside existing SPAs. Explore the pain points and recommended approach for integrating into an existing application.",
+        "considerations": [
+            "What is the support for code-splitting and modular loading of the application?",
+            "Can the framework be used inside of or alongside an existing SPA? What are the implications?",
+            "How does an incremental adoption impact CI / CD decisions?"
+        ]
+    },
+    "i13n": {
+        "display": "i18n",
+        "description": "Evaluate if there is an established pattern or companion library for internationalization of an application built using the candidate framework or library. True internationalization support should enable easy localization for target audiences that vary in culture, region or language. Are any of the identified solutions used in production and by what organizations?",
+        "considerations": [
+            "Is support comprehensive (dates, numbers, translations, etc)?"
+        ]
+    },
+    "learning-curve": {
+        "display": "Learning Curve",
+        "considerations": [
+            "What languages will I need to learn?",
+            "What skills are transferable?"
+        ]
+    },
+    "languages": {
+        "display": "Language",
+        "description": "Evaluate what languages are supported by the candidate framework or library and wether or not a specific option is recommended.",
+        "considerations": [
+            "es5, es6, +",
+            "TypeScript, flow",
+            "vanilla, JSX"
+        ]
+    },
+    "licensing": {
+        "display": "License",
+        "description": "Evaluate what license(s) the candidate framework or library has as well as the most widely used companion libraries."
+    },
+    "mobile-native-support": {
+        "display": "Mobile & Native Support"
+    },
+    "pdf-export-rendering": {
+        "display": "PDF Export & Rendering"
+    },
+    "performance-scalability": {
+        "display": "Performance & Scalability"
+    },
+    "ssr": {
+        "display": "Server Side Rendering",
+        "description": "Evaluate the support for [SSR](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8). Note the benefits, implications and usability of the identified approaches.",
+        "considerations": [
+            "Is there a limitation as to what companion libraries the SSR implementation supports (e.g. state management)?"
+        ]
+    },
+    "support-community": {
+        "display": "Support & Community"
+    },
+    "testing": {
+        "display": "Testing",
+        "description": "Evaluate what the testing experience and maturity of testing platforms are for the candidate framework or library.",
+        "considerations": [
+            "Unit testing",
+            "Integration testing",
+            "e2e testing",
+            "Component mocking & assertion libraries"
+        ]
+    },
+    "theming": {
+        "display": "Theming",
+        "description": "Evaluate the experience, difficulty and approach to applying a global theme to a project built using the candidate framework or library.",
+        "considerations": [
+            "Are the findings specific to the candidate or a companion component library?",
+            "What out of the box themes are already available?"
+        ]
+    }
+}
