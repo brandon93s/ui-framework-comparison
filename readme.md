@@ -31,7 +31,7 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [Incremental Adoptability](/criteria/incremental-adoptability.md) | (todo)                      | (todo)                    | (todo)                    |
 | [i18n](/criteria/i13n.md)                                         | (todo)                      | (todo)                    | (todo)                    |
 | [Learning Curve](/criteria/learning-curve.md)                     | (todo)                      | (todo)                    | (todo)                    |
-| [Language](/criteria/languages.md)                                | (todo)                      | (todo)                    | [view](/vuejs/languages)  |
+| [Language](/criteria/languages.md)                                | [view](/angular/languages)  | (todo)                    | [view](/vuejs/languages)  |
 | [License](/criteria/licensing.md)                                 | (todo)                      | (todo)                    | (todo)                    |
 | [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                      | (todo)                    | (todo)                    |
 | [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                      | (todo)                    | (todo)                    |
