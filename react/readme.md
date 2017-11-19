@@ -23,3 +23,4 @@
 | ------------------------------------- | ------------------------- |
 | [Components](/criteria/components.md) | [view](/react/components) |
 | [Language](/criteria/languages.md)    | [view](/react/languages)  |
+| [License](/criteria/licensing.md)     | [view](/react/licensing)  |

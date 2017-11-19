@@ -8,5 +8,6 @@ Evaluate what license(s) the candidate framework or library has as well as the m
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate       | Details                  |
+| --------------- | ------------------------ |
+| [React](/react) | [view](/react/licensing) |
