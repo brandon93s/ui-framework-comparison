@@ -11,5 +11,6 @@ Evaluate what languages are supported by the candidate framework or library and 
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate        | Details                  |
+| ---------------- | ------------------------ |
+| [Vue.js](/vuejs) | [view](/vuejs/languages) |

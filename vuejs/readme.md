@@ -22,4 +22,5 @@
 | Criteria                                  | Details                   |
 | ----------------------------------------- | ------------------------- |
 | [Components](/criteria/components.md)     | [view](/vuejs/components) |
+| [Language](/criteria/languages.md)        | [view](/vuejs/languages)  |
 | [Server Side Rendering](/criteria/ssr.md) | [view](/vuejs/ssr)        |
