@@ -41,6 +41,9 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [Testing](/criteria/testing.md)                                   | (todo)                | (todo) | (todo) |
 | [Theming](/criteria/theming.md)                                   | (todo)                | (todo) | (todo) |
 
+## Contributing
+Read the [Contributing Guide](contributing.md) to get started.
+
 ## Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
