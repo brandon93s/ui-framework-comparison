@@ -8,6 +8,7 @@ Evaluate what license(s) the candidate framework or library has as well as the m
 
 ### Evaluated Candidates
 
-| Candidate       | Details                  |
-| --------------- | ------------------------ |
-| [React](/react) | [view](/react/licensing) |
+| Candidate        | Details                  |
+| ---------------- | ------------------------ |
+| [React](/react)  | [view](/react/licensing) |
+| [Vue.js](/vuejs) | [view](/vuejs/licensing) |

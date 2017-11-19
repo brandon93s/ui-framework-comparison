@@ -32,7 +32,7 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [i18n](/criteria/i13n.md)                                         | (todo)                      | (todo)                    | (todo)                    |
 | [Learning Curve](/criteria/learning-curve.md)                     | (todo)                      | (todo)                    | (todo)                    |
 | [Language](/criteria/languages.md)                                | [view](/angular/languages)  | [view](/react/languages)  | [view](/vuejs/languages)  |
-| [License](/criteria/licensing.md)                                 | (todo)                      | [view](/react/licensing)  | (todo)                    |
+| [License](/criteria/licensing.md)                                 | (todo)                      | [view](/react/licensing)  | [view](/vuejs/licensing)  |
 | [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                      | (todo)                    | (todo)                    |
 | [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                      | (todo)                    | (todo)                    |
 | [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                      | (todo)                    | (todo)                    |
