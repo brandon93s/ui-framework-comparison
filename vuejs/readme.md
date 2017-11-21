@@ -22,6 +22,7 @@
 | Criteria                                  | Details                   |
 | ----------------------------------------- | ------------------------- |
 | [Components](/criteria/components.md)     | [view](/vuejs/components) |
+| [i18n](/criteria/i18n.md)                 | [view](/vuejs/i18n)       |
 | [Language](/criteria/languages.md)        | [view](/vuejs/languages)  |
 | [License](/criteria/licensing.md)         | [view](/vuejs/licensing)  |
 | [Server Side Rendering](/criteria/ssr.md) | [view](/vuejs/ssr)        |

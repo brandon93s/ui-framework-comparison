@@ -1,0 +1,71 @@
+<!-- https://simple-rqvltoaqbr.now.sh -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple</title>
+  <script src="https://unpkg.com/vue"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <!-- Include vue-i18n from CDN -->
+  <script src="https://unpkg.com/vue-i18n/dist/vue-i18n.js"></script>
+</head>
+<body style="font-family: 'Roboto', sans-serif;">
+  <div id="app">
+    <h1>"{{ $t('helloWorld') }}"</h1>
+    <p>
+        This page supports en, es and fr.
+        Your current locale is <b>{{ locale }}</b>.
+    </p>
+    <br />
+    <p>
+      View this page in a different language:
+    </p>
+    <ul>
+      <li>
+        English: <a href="?locale=en">/?locale=en</a>
+      </li>
+      <li>
+        Spanish: <a href="?locale=es">/?locale=es</a>          
+      </li>
+      <li>
+        French: <a href="?locale=fr">/?locale=fr</a>          
+      </li>
+    </ul>
+  </div>
+
+  <script>
+    // Get locale from URL, default to english
+    function getLocale() {
+      const match = window.location.href.match(/locale=([a-zA-Z]{2})/);
+      return match ? match[1] : 'en'
+    }
+
+    // Build localized messages
+    const messages = {
+      en: {
+        helloWorld: 'Hello World'
+      },
+      es: {
+        helloWorld: 'Hola mundo'
+      },
+      fr: {
+        helloWorld: 'Bonjour monde'
+      }
+    }
+
+    // Create i18n instance
+    const i18n = new VueI18n({
+      locale: getLocale(), // set locale
+      messages, // set locale messages
+    })
+
+    // Mount Vue
+    const app = new Vue({
+      i18n: i18n, // initialize with i18n
+      el: '#app',
+      data: {
+        locale: getLocale()
+      }
+    })
+  </script>
+</body>
+</html>

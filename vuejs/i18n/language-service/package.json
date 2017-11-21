@@ -1,0 +1,17 @@
+{
+  "name": "vuejs-i18n-language-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro -p 80",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.0.2",
+    "micro-cors": "^0.0.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^1.4.0"
+  }
+}
