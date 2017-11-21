@@ -32,7 +32,7 @@
             "How does an incremental adoption impact CI / CD decisions?"
         ]
     },
-    "i13n": {
+    "i18n": {
         "display": "i18n",
         "description": "Evaluate if there is an established pattern or companion library for internationalization of an application built using the candidate framework or library. True internationalization support should enable easy localization for target audiences that vary in culture, region or language. Are any of the identified solutions used in production and by what organizations?",
         "considerations": [

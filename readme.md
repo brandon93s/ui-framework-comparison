@@ -29,7 +29,7 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [Components](/criteria/components.md)                             | [view](/angular/components) | [view](/react/components) | [view](/vuejs/components) |
 | [Dev Experience](/criteria/dev-experience.md)                     | (todo)                      | (todo)                    | (todo)                    |
 | [Incremental Adoptability](/criteria/incremental-adoptability.md) | (todo)                      | (todo)                    | (todo)                    |
-| [i18n](/criteria/i13n.md)                                         | (todo)                      | (todo)                    | (todo)                    |
+| [i18n](/criteria/i18n.md)                                         | (todo)                      | (todo)                    | (todo)                    |
 | [Learning Curve](/criteria/learning-curve.md)                     | (todo)                      | (todo)                    | (todo)                    |
 | [Language](/criteria/languages.md)                                | [view](/angular/languages)  | [view](/react/languages)  | [view](/vuejs/languages)  |
 | [License](/criteria/licensing.md)                                 | [view](/angular/licensing)  | [view](/react/licensing)  | [view](/vuejs/licensing)  |
