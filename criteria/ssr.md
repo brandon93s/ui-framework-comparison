@@ -11,4 +11,5 @@ Evaluate the support for [SSR](https://medium.com/walmartlabs/the-benefits-of-se
 
 | Candidate        | Details            |
 | ---------------- | ------------------ |
+| [React](/react)  | [view](/react/ssr) |
 | [Vue.js](/vuejs) | [view](/vuejs/ssr) |

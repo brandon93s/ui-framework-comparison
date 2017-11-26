@@ -36,7 +36,7 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [Mobile & Native Support](/criteria/mobile-native-support.md)     | (todo)                      | (todo)                    | (todo)                    |
 | [PDF Export & Rendering](/criteria/pdf-export-rendering.md)       | (todo)                      | (todo)                    | (todo)                    |
 | [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                      | (todo)                    | (todo)                    |
-| [Server Side Rendering](/criteria/ssr.md)                         | (todo)                      | (todo)                    | [view](/vuejs/ssr)        |
+| [Server Side Rendering](/criteria/ssr.md)                         | (todo)                      | [view](/react/ssr)        | [view](/vuejs/ssr)        |
 | [Support & Community](/criteria/support-community.md)             | (todo)                      | (todo)                    | (todo)                    |
 | [Testing](/criteria/testing.md)                                   | (todo)                      | (todo)                    | (todo)                    |
 | [Theming](/criteria/theming.md)                                   | (todo)                      | (todo)                    | (todo)                    |

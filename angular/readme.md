@@ -12,8 +12,6 @@
 [![npm](https://img.shields.io/npm/v/@angular/core.svg)]()
 [![CircleCI](https://img.shields.io/circleci/project/github/angular/angular.svg)]()
 
-[![Build Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/beta/builds/698e6a7513bd4d6fadcb25d416c29b66)
-
 
 **Description:** Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges.
 

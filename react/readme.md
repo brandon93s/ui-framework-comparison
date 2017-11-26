@@ -19,8 +19,9 @@
 
 ## Evaluation Criteria
 
-| Criteria                              | Details                   |
-| ------------------------------------- | ------------------------- |
-| [Components](/criteria/components.md) | [view](/react/components) |
-| [Language](/criteria/languages.md)    | [view](/react/languages)  |
-| [License](/criteria/licensing.md)     | [view](/react/licensing)  |
+| Criteria                                  | Details                   |
+| ----------------------------------------- | ------------------------- |
+| [Components](/criteria/components.md)     | [view](/react/components) |
+| [Language](/criteria/languages.md)        | [view](/react/languages)  |
+| [License](/criteria/licensing.md)         | [view](/react/licensing)  |
+| [Server Side Rendering](/criteria/ssr.md) | [view](/react/ssr)        |
