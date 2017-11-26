@@ -22,5 +22,6 @@
 | Criteria                              | Details                     |
 | ------------------------------------- | --------------------------- |
 | [Components](/criteria/components.md) | [view](/angular/components) |
+| [i18n](/criteria/i18n.md)             | [view](/angular/i18n)       |
 | [Language](/criteria/languages.md)    | [view](/angular/languages)  |
 | [License](/criteria/licensing.md)     | [view](/angular/licensing)  |
