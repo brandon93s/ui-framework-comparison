@@ -19,3 +19,7 @@
 **[vue-resource](https://github.com/pagekit/vue-resource)** - the HTTP client for Vue.js
 
 [![license](https://img.shields.io/github/license/pagekit/vue-resource.svg)]()
+
+**[vue-i18n](https://github.com/kazupon/vue-i18n)** - Internationalization plugin for Vue.js
+
+[![license](https://img.shields.io/github/license/kazupon/vue-i18n.svg)]()
