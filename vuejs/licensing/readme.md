@@ -20,6 +20,10 @@
 
 [![license](https://img.shields.io/github/license/pagekit/vue-resource.svg)]()
 
-**[vue-i18n](https://github.com/kazupon/vue-i18n)** - Internationalization plugin for Vue.js
+**[vue-i18n](https://github.com/kazupon/vue-i18n)** - internationalization plugin for Vue.js
 
 [![license](https://img.shields.io/github/license/kazupon/vue-i18n.svg)]()
+
+**[nuxt.js](https://github.com/nuxt/nuxt.js)** - universal vue.js applications
+
+[![license](https://img.shields.io/github/license/nuxt/nuxt.js.svg)]()
