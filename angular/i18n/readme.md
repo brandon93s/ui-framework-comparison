@@ -8,9 +8,9 @@
 
 #### Out of the box
 
-[Download](https://angular.io/generated/zips/i18n/i18n.zip)
+[Example](compile-time)
 
-TODO: download and test the example, or generate new one with ng
+The default approach in Angular is to generate the app for different target languages at compile time. The app will still have a single codebase, but the ng cli tools will output a separate copy for each language. Language switching requires page reload, and should be handled either via different directories (/en/, /fr/), or querystring parameters (?language=en, ?language=fr).
 
 #### lazy-loading with extensions
 
