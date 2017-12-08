@@ -12,5 +12,5 @@ npm install
 npm run start:en
 
 # serve french locale at localhost:4200
-npm run start:en
+npm run start:fr
 ```
