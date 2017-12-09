@@ -4,3 +4,6 @@
 
 [![license](https://img.shields.io/github/license/angular/angular.svg)]()
 
+**[ngx-translate](https://github.com/ngx-translate/core)** - Internationalization library for Angular
+
+[![license](https://img.shields.io/github/license/ngx-translate/core.svg)]()
