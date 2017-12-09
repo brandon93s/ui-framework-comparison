@@ -1,0 +1,50 @@
+
+<a href="https://angular.io/guide/i18n" target="_blank">Angular i18n Guide</a>
+
+<br /><br /><hr /><br />
+
+<b>DIV tag with:
+  <ul>
+    <li>id=@@introductionHeader</li>
+    <li>meaning=User welcome</li>
+    <li>description=An introduction header for this sample</li>
+  </ul>
+</b>
+<div i18n="User welcome|An introduction header for this sample@@introductionHeader">
+  Hello i18n!
+</div>
+
+<br /><hr /><br />
+
+<b>ng-container with just i18n, translating based on the text, not an id:
+</b>
+<br />
+<ng-container i18n>I don't output any element</ng-container>
+
+<br /><br /><hr /><br />
+
+<b>IMG tag with title localized based on the text, not an id:
+</b>
+<br />
+<img [src]="logo" i18n-title title="Angular logo" />
+
+<br /><hr /><br />
+
+<button (click)="inc(1)">+</button> <button (click)="inc(-1)">-</button>
+<span i18n>Updated {minutes, plural, =0 {just now} =1 {one minute ago} other {{{minutes}} minutes ago}}</span>
+({{minutes}})
+
+<br /><br /><hr /><br />
+
+<button (click)="male()">&#9794;</button> <button (click)="female()">&#9792;</button> <button (click)="other()">&#9895;</button>
+<span i18n>The author is {gender, select, m {male} f {female} o {other}}</span>
+
+<br /><br /><hr /><br />
+
+<span i18n>Updated: {minutes, plural,
+  =0 {just now}
+  =1 {one minute ago}
+  other {{{minutes}} minutes ago by {gender, select, m {male} f {female} o {other}}}}
+</span>
+
+<br /><br /><hr /><br />
