@@ -13,6 +13,8 @@
 %BADGE_BUILD%
 %BADGE_COVERAGE%
 
+%BADGE_BROWSER_MATRIX%
+
 **Description:** %DESCRIPTION%
 
 **History:** %HISTORY%

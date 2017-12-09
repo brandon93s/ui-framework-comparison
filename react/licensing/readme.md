@@ -27,3 +27,7 @@
 **[redux-saga](https://github.com/redux-saga/redux-saga)** - an alternative side effect model for Redux apps
 
 [![license](https://img.shields.io/github/license/redux-saga/redux-saga.svg)]()
+
+**[next.js](https://github.com/zeit/next.js)** - rramework for server-rendered or statically-exported React apps
+
+[![license](https://img.shields.io/github/license/zeit/next.js.svg)]()

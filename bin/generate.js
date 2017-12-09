@@ -90,6 +90,7 @@ function candidateReadme(candidate, criteria) {
         BADGE_VERSION: candidate.badges.version,
         BADGE_BUILD: candidate.badges.build,
         BADGE_COVERAGE: candidate.badges.coverage,
+        BADGE_BROWSER_MATRIX: candidate.badges.browserMatrix,
         EVALUATION_CRITERIA: table(criteriaTable),
         DESCRIPTION: candidate.description,
         HISTORY: candidate.history

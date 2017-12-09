@@ -16,7 +16,8 @@
             "license": "[![license](https://img.shields.io/github/license/angular/angular.svg)]()",
             "awesome": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/gdi2290/awesome-angular)",
             "version": "[![npm](https://img.shields.io/npm/v/@angular/core.svg)]()",
-            "build": "[![CircleCI](https://img.shields.io/circleci/project/github/angular/angular.svg)]()"
+            "build": "[![CircleCI](https://img.shields.io/circleci/project/github/angular/angular.svg)]()",
+            "browserMatrix": "[![Build Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/beta/builds/698e6a7513bd4d6fadcb25d416c29b66)"
         }
     },
     {
@@ -58,7 +59,8 @@
             "awesome": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/vuejs/awesome-vue)",
             "version": "[![npm](https://img.shields.io/npm/v/vue.svg)]()",
             "build": "[![CircleCI](https://img.shields.io/circleci/project/github/vuejs/vue.svg)]()",
-            "coverage": "[![Codecov](https://img.shields.io/codecov/c/github/vuejs/vue.svg)]()"      
+            "coverage": "[![Codecov](https://img.shields.io/codecov/c/github/vuejs/vue.svg)]()",
+            "browserMatrix": "[![Build Status](https://saucelabs.com/browser-matrix/vuejs.svg)](https://saucelabs.com/beta/builds/1cee7d1f5f1748678d917c64ec2832bd)"
         }
     }
 ]
