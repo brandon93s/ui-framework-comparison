@@ -1,4 +1,4 @@
-# compile-time
+# lazy-loading with ngx-translate
 
 > An Angular project following example from [https://github.com/ngx-translate/core](https://github.com/ngx-translate/core)
 
