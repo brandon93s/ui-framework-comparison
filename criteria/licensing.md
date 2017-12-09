@@ -4,7 +4,8 @@ Evaluate what license(s) the candidate framework or library has as well as the m
 
 ### Considerations:
 
-``` // TODO ```
+- What about the licenses of project dependencies? (see [license-checker](https://github.com/davglass/license-checker)) 
+
 
 ### Evaluated Candidates
 
