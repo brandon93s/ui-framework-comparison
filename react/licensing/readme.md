@@ -8,7 +8,7 @@
 
 [![license](https://img.shields.io/github/license/reactjs/redux.svg)]()
 
-**[react-redux](https://github.com/facebook/react-redux)** - offical React bindings for Redux
+**[react-redux](https://github.com/facebook/react-redux)** - official React bindings for Redux
 
 [![license](https://img.shields.io/github/license/reactjs/react-redux.svg)]()
 
@@ -28,6 +28,6 @@
 
 [![license](https://img.shields.io/github/license/redux-saga/redux-saga.svg)]()
 
-**[next.js](https://github.com/zeit/next.js)** - rramework for server-rendered or statically-exported React apps
+**[next.js](https://github.com/zeit/next.js)** - framework for server-rendered or statically-exported React apps
 
 [![license](https://img.shields.io/github/license/zeit/next.js.svg)]()

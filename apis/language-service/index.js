@@ -1,10 +1,15 @@
 // Live URL: https://vuejs-i18n-language-service-pxwfqjoswk.now.sh
-// Update vuejs/vue-i18n/lazy-loading on new deployment
+
+/**
+ * Update the following locations on new deployment:
+ * - vuejs/i18n/vue-i18n/lazy-loading
+ * - angular/i18n/lib-ngx-translate
+ */
 
 const cors = require('micro-cors')()
 
 /*
- * Build mock translations store 
+ * Build mock translations store
  */
 const build = msg => { return { greetings: { helloWorld: msg }}}
 const languages = new Map();

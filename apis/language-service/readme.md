@@ -22,6 +22,6 @@ To work on the language-service:
 
 ```js
 npm install
-npm dev
+npm run dev
 ```
 

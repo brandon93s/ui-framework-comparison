@@ -1,24 +1,24 @@
 <h3 align="center">
-	<br>
-	<img width="400" src="https://rawgit.com/brandon93s/ui-framework-comparison/master/media/logos.svg" alt="ui-framework-comparison" />
-	<br>
+  <br>
+  <img width="400" src="https://rawgit.com/brandon93s/ui-framework-comparison/master/media/logos.svg" alt="ui-framework-comparison" />
+  <br>
     <br>
 </h1>
 
 # ui-framework-comparison
 
-The goal of *ui-framework-comparison* is to provide an objective, criteria-based evaluation of today's most popular JavaScript UI frameworks and libraries. This project is not intended to make a recommendation, but instead to provide you, your team or your organization with the research and demos necessary to come to an informed conclusion. There is no *"one size fits all"* answer in todays front-end environment, but more often than not any of the candidates can be setup to suit your needs. 
+The goal of *ui-framework-comparison* is to provide an objective, criteria-based evaluation of today's most popular JavaScript UI frameworks and libraries. This project is not intended to make a recommendation, but instead to provide you, your team or your organization with the research and demos necessary to come to an informed conclusion. There is no *"one size fits all"* answer in todays front-end environment, but more often than not any of the candidates can be setup to suit your needs.
 
 ## Current Candidates
 
-### [Angular](/angular) 
-*One framework. Mobile & desktop.* ([more](/angular)) 
+### [Angular](/angular)
+*One framework. Mobile & desktop.* ([more](/angular))
 
-### [React](/react) 
-*A JavaScript library for building user interfaces* ([more](/react)) 
+### [React](/react)
+*A JavaScript library for building user interfaces* ([more](/react))
 
-### [Vue.js](/vuejs) 
-*The Progressive JavaScript Framework* ([more](/vuejs)) 
+### [Vue.js](/vuejs)
+*The Progressive JavaScript Framework* ([more](/vuejs))
 
 
 
