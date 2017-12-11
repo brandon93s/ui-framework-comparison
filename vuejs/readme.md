@@ -28,3 +28,4 @@
 | [Language](/criteria/languages.md)        | [view](/vuejs/languages)  |
 | [License](/criteria/licensing.md)         | [view](/vuejs/licensing)  |
 | [Server Side Rendering](/criteria/ssr.md) | [view](/vuejs/ssr)        |
+| [Testing](/criteria/testing.md)           | [view](/vuejs/testing)    |

@@ -38,7 +38,7 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 | [Performance & Scalability](/criteria/performance-scalability.md) | (todo)                      | (todo)                    | (todo)                    |
 | [Server Side Rendering](/criteria/ssr.md)                         | (todo)                      | [view](/react/ssr)        | [view](/vuejs/ssr)        |
 | [Support & Community](/criteria/support-community.md)             | (todo)                      | (todo)                    | (todo)                    |
-| [Testing](/criteria/testing.md)                                   | (todo)                      | (todo)                    | (todo)                    |
+| [Testing](/criteria/testing.md)                                   | (todo)                      | (todo)                    | [view](/vuejs/testing)    |
 | [Theming](/criteria/theming.md)                                   | (todo)                      | (todo)                    | (todo)                    |
 
 ## Contributing

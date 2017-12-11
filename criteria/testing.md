@@ -12,5 +12,6 @@ Evaluate what the testing experience and maturity of testing platforms are for t
 
 ### Evaluated Candidates
 
-| Candidate | Details |
-| --------- | ------- |
+| Candidate        | Details                |
+| ---------------- | ---------------------- |
+| [Vue.js](/vuejs) | [view](/vuejs/testing) |
