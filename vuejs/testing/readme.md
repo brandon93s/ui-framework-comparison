@@ -19,7 +19,7 @@ Unit tests can be found in the [unit/specs](example/test/unit/specs) folder for 
 
 **E2E Testing:**
 
-Tools: [nightwatch.js](https://nightwatchjs.org)
+Tools: [nightwatch.js](http://nightwatchjs.org)
 
 E2E tests can be found in the [e2e/specs](example/test/e2e/specs) folder. The E2E tests are browser automation tests and when run will launch and orchestrate a browser on your machine via selenium. Tests are written with [nightwatch.js](https://nightwatchjs.org) which provides `expect`, `assert` and `command` apis.
 
